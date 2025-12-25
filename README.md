@@ -1,58 +1,80 @@
-# 🍉 Привет, меня зовут Арбуз!
+# 👋 Hey there, I'm Occitanian! 
 
-А если точнее, **@Kolobroden**. Добро пожаловать в мой цифровой сад на GitHub!
-
----
-
-### 🧑‍💻 Обо мне в двух словах
-
-*   **👋 Приветствие:** Официально — `Hi, I'm @Kolobroden`. Неофициально — просто позови "Арбуз".
-*   **😄 Местоимения:** `Arbuz` / `Арбузный` / `Арбузу`. Всё просто.
-*   **🎯 Чем занимаюсь:** [Здесь можно кратко описать свою основную деятельность, например: Учусь программировать / Разрабатываю игры / Исследую данные / Создаю полезные скрипты]. *(Замени на описание со своего канала!)*
-*   **✨ Особенность репозитория:** Этот профиль — особенный, потому что именно этот `README.md` ты сейчас читаешь. Магия!
+**AKA @Kolobroden** • **Pronouns:** Arbuz 🍉 (that's the easter egg!)
 
 ---
 
-### 🛠️ Мой технологический арсенал
+### 🚀 About Me
 
-Вот с чем я обычно играюсь (или серьезно работаю):
+I'm a developer exploring the digital universe. When I'm not coding, I'm probably thinking about code... or watermelons.
 
-| Категория       | Инструменты                                                                                                 |
-|-----------------|-------------------------------------------------------------------------------------------------------------|
-| **💻 Языки**     | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) *(Добавь свои!)* |
-| **🛠️ Инструменты** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
-| **🧠 Хочу изучить** | [Перечисли технологии или языки, которые планируешь освоить]                                                |
-
-*(Строки с языками и инструментами — это пример. Обязательно замени их на свои! Баджи можно взять с [shields.io](https://shields.io) или [simpleicons.org](https://simpleicons.org))*
+**Tech Stack:**
+- **Languages:** Python, JavaScript, C# (a bit)
+- **Tools:** Git, VS Code, and a healthy dose of curiosity
+- **Currently:** Building cool stuff and learning new things every day
 
 ---
 
-### 📈 Моя активность
+### 📊 GitHub Stats
 
-Когда я не режу арбузы, я могу решать задачи. Вот как это выглядит:
+![Occitanian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kolobroden&show_icons=true&theme=radical)
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Kolobroden&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kolobroden&layout=compact&theme=radical)
 
-*(Это опционально. Для работы графика нужно будет настроить репозиторий `github-readme-stats`)*
-
----
-
-### 📺 Загляни на мой канал!
-
-Больше контента, мыслей и, возможно, арбузных мемов — в моем уголке:
-👉 **[Ссылка на твой канал](https://www.youtube.com/@Kolobroden)** 👈
-
-Там ты найдешь: [Кратко опиши, что зритель найдет на канале, например: "разборы кода, туториалы, стримы по разработке или просто разговоры о технологиях"].
+*Note: These stats update automatically!*
 
 ---
 
-### 📫 Как связаться?
+### 🌐 Connect with Me
 
-Хочешь предложить коллаборацию, задать вопрос или просто поговорить об арбузах?
-
-*   **Напиши мне тут:** [Укажи предпочтительный способ связи, например, Telegram или email]
-*   **Или оставь issue** в одном из моих репозиториев.
+**Telegram Channel:** 📢 [Occitanian World](https://t.me/occitanian_world)  
+**Direct Contact:** 💬 [@occitanian](https://t.me/occitanian)
 
 ---
 
-*Спасибо, что заглянул! Не забудь ломтик арбуза для настроения 🍉*
+### 📌 Pinned Projects
+
+Here are some projects I'm particularly proud of:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kolobroden&repo=Kolobroden&theme=radical)](https://github.com/Kolobroden/Kolobroden)
+
+*Want to see more? Check out my repositories below!*
+
+---
+
+### 🎯 What I'm Up To
+
+- 🔭 **Currently working on:** [Your current project]
+- 🌱 **Currently learning:** [What you're learning]
+- 👯 **Looking to collaborate on:** Interesting Python/JS projects
+- 💬 **Ask me about:** Python basics, Telegram bots, or why watermelons are awesome
+- ⚡ **Fun fact:** My pronouns are "Arbuz" because why not?
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kolobroden&theme=radical)
+
+---
+
+### 💻 Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- This section auto-updates with your recent GitHub activity -->
+*Check back soon for updates!*
+<!--END_SECTION:activity-->
+
+*To enable activity feed, you'll need to set up a GitHub Action later.*
+
+---
+
+### 🍉 Why "Arbuz"?
+
+It started as an inside joke and became my digital alter ego. Sometimes you need a little sweetness in the world of code!
+
+---
+
+**Thanks for stopping by! Feel free to explore my repositories or reach out if you want to chat about tech, projects, or watermelons!**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Kolobroden&color=red&style=flat)
