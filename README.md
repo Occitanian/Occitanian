@@ -7,7 +7,7 @@ Creating soulful games with Python, JS, and a sprinkle of C#.
 
 ### 🛠️ **Tech Stack**
 
-| Language | Iconka |
+| Language | Icon |
 |-|-|
 | **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> |
 | **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> |
