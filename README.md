@@ -17,9 +17,9 @@ I'm a developer exploring the digital universe. When I'm not coding, I'm probabl
 
 ### 📊 GitHub Stats
 
-![Occitanian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kolobroden&show_icons=true&theme=radical)
+![Occitanian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Occitanian&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kolobroden&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Occitanian&layout=compact&theme=radical)
 
 *Note: These stats update automatically!*
 
@@ -36,7 +36,7 @@ I'm a developer exploring the digital universe. When I'm not coding, I'm probabl
 
 Here are some projects I'm particularly proud of:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kolobroden&repo=Kolobroden&theme=radical)](https://github.com/Kolobroden/Kolobroden)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kolobroden&repo=Occitanian&theme=radical)](https://github.com/Kolobroden/Kolobroden)
 
 *Want to see more? Check out my repositories below!*
 
@@ -54,7 +54,7 @@ Here are some projects I'm particularly proud of:
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kolobroden&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Occitanian&theme=radical)
 
 ---
 
@@ -77,4 +77,4 @@ It started as an inside joke and became my digital alter ego. Sometimes you need
 
 **Thanks for stopping by! Feel free to explore my repositories or reach out if you want to chat about tech, projects, or watermelons!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Kolobroden&color=red&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Occitanian&color=red&style=flat)
