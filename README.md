@@ -7,11 +7,11 @@ Creating soulful games with Python, JS, and a sprinkle of C#.
 
 ### 🛠️ **Tech Stack**
 
-| Language | Level | Icon |
+| Language | Iconka |
 |----------|-------|------|
-| **Python** | Proficient | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> |
-| **JavaScript** | Intermediate | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> |
-| **C#** | Beginner | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" /> |
+| **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" /> |
+| **C#** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" /> |
 
 ---
 
@@ -22,7 +22,7 @@ Every project is a piece of heart in digital form.
 ---
 
 ### 📬 **Connect With Me**
-**Telegram Channel:** [@occitanian_world](https://t.me/occitanian_world)  
-**Direct Contact:** [@occitanian](https://t.me/occitanian)  
+**Telegram Channel:** [@Occitanian_world](https://t.me/occitanian_world)  
+**Direct Contact:** [@Occitanian](https://t.me/occitanian)  
 
-*Pronouns: Arbuz/Арбуз (it's an Easter egg 🍉)*
+*Pronouns: Arbuz*
